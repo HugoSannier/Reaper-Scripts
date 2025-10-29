@@ -222,7 +222,6 @@ end
 
 function Replace()
     reaper.Undo_BeginBlock2(proj)
-    LogItemChunk(MediaPoolReplaced)
     if Settings.isErasedOrMuted == 0 then --Erased
         RepopulatePool(MediaPoolReplacer, #MediaPoolReplaced)
         ReplaceItemPositionErase(MediaPoolReplaced, MediaPoolReplacer)
