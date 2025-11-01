@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Reaper-Scripts" commit="5fd470796844186047537d42f0f1e27083711f8d">
+<index version="1" name="Reaper-Scripts" commit="83697a18bdf90d3204d7de98a3de701767ab8b86">
   <category name="Example">
     <reapack name="Reaper Scripts" type="script" desc="Repository of the scripts I made for reaper.">
       <metadata>
@@ -22,22 +22,7 @@ Markdown
     </reapack>
   </category>
   <category name="Items">
-    <reapack name="Replace_Item_By_Selection_Gui.lua" type="script" desc="Replace_Item_By_Selection">
-      <metadata>
-        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
-{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
-\widowctrl\hyphauto
-
-{\pard \ql \f0 \sa180 \li0 \fi0 This script allows to instantly replace items by other ones, it also provides different remplacement methods.\par}
-}
-]]></description>
-      </metadata>
-      <version name="0.1" author="Hugo SD" time="2025-10-29T11:55:26Z">
-        <source main="main">https://github.com/HugoSannier/Reaper-Scripts/raw/e1eeee109ff157fcf69d9c6d44a619dac35fc038/Items/Replace_Item_By_Selection_Gui.lua</source>
-        <source file="Replace_Item_By_Selection.lua">https://github.com/HugoSannier/Reaper-Scripts/raw/e1eeee109ff157fcf69d9c6d44a619dac35fc038/Items/Replace_Item_By_Selection.lua</source>
-      </version>
-    </reapack>
-    <reapack name="Shuffle_Selected_Media_Items.lua" type="script" desc="Shuffle_Selected_Media_Items">
+    <reapack name="HugoSD_Shuffle_Selected_Media_Items.lua" type="script" desc="Shuffle_Selected_Media_Items">
       <metadata>
         <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
@@ -47,8 +32,8 @@ Markdown
 }
 ]]></description>
       </metadata>
-      <version name="0.1" author="Hugo SD" time="2025-10-29T11:30:03Z">
-        <source main="main">https://github.com/HugoSannier/Reaper-Scripts/raw/f92e4dceaf09f3535047d1afc79dd3c6a04eb9ce/Items/Shuffle_Selected_Media_Items.lua</source>
+      <version name="0.1" author="Hugo SD" time="2025-11-01T21:08:50Z">
+        <source main="main">https://github.com/HugoSannier/HugoSD-Scripts/raw/83697a18bdf90d3204d7de98a3de701767ab8b86/Items/HugoSD_Shuffle_Selected_Media_Items.lua</source>
       </version>
     </reapack>
   </category>
